@@ -36,3 +36,8 @@ A:\3DS\DS2\Alexander\OsDsII.api\obj\Debug\net7.0\refint\OsDsII.api.dll
 A:\3DS\DS2\Alexander\OsDsII.api\obj\Debug\net7.0\OsDsII.api.pdb
 A:\3DS\DS2\Alexander\OsDsII.api\obj\Debug\net7.0\OsDsII.api.genruntimeconfig.cache
 A:\3DS\DS2\Alexander\OsDsII.api\obj\Debug\net7.0\ref\OsDsII.api.dll
+A:\3DS\DS2\Alexander\OsDsII.api\bin\Debug\net7.0\Humanizer.dll
+A:\3DS\DS2\Alexander\OsDsII.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\3DS\DS2\Alexander\OsDsII.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+A:\3DS\DS2\Alexander\OsDsII.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+A:\3DS\DS2\Alexander\OsDsII.api\bin\Debug\net7.0\System.CodeDom.dll
