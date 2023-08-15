@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZekopgNt4O4MXZ+Jg6wLsY/dtTf3Tzl9GYzmrybzOJphu7ZclWD0kVOjLkkHgk382v0pU1Xdlu6OpwIqpH7Wg==",
+  "dgSpecHash": "/FXoYyEX59ssb8+px6e96CCCJNG7kLxenrrQH4TsAcdQSeHcm8IVDcAEUlIzZ/9b+kcKXrmjvd4Qfdrjcjcugg==",
   "success": true,
-  "projectFilePath": "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
+  "projectFilePath": "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.8\\microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",

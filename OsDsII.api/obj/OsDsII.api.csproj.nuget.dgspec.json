@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj": {}
+    "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj": {}
   },
   "projects": {
-    "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj": {
+    "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
+        "projectUniqueName": "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
         "projectName": "OsDsII.api",
-        "projectPath": "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
+        "projectPath": "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\OsDsII.api.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "A:\\3DS\\DS2\\Alexander\\OsDsII.api\\obj\\",
+        "outputPath": "a:\\3DS\\DS2\\Alexander\\OsDsII.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
